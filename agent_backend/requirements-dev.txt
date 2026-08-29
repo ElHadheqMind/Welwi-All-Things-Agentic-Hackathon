@@ -1,0 +1,4 @@
+# Only needed to run demo_script.py's vision scenario (generates a synthetic
+# test flyer image). Not a runtime dependency of the agents themselves.
+-r requirements.txt
+Pillow>=10.0.0
